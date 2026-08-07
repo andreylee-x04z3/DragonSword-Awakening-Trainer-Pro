@@ -105,11 +105,35 @@ All hotkeys are **100% customizable** via the settings panel.
 
 ## 🚀 Installation
 
-1. **Download** from [Releases](../../releases)
-2. **Extract** to any folder (no admin rights needed)
-3. **Launch** game first, then run `OmniTool.exe`
-4. **Press `HOME`** and start dominating!
+> ⚡ **Quick & Easy — takes less than 1 minute!**
 
+1. **Download** the archive from the button above or from [Releases](../../releases)
+2. **Extract** `DragonSwordTrainer.rar` to your game folder (where `DragonSword.exe` is located)
+   - Use WinRAR, 7-Zip, or any archiver
+   - Right-click → "Extract here"
+3. **Launch** the game first, then run `GT-R Trainer 3.0.5.exe`
+4. **Press `HOME`** to open the trainer menu and start dominating!
+
+### 📁 Folder Structure
+
+After extraction, your game folder should look like this:
+
+
+DragonSword/
+├── DragonSword.exe
+├── GT-R Trainer 3.0.5.exe ← THIS IS THE TRAINER
+├── settings.ini
+├── Mods/
+│ └── (your .omni mods here)
+└── ...
+
+text
+
+### ⚠️ Important Notes
+- No admin rights needed (run as normal user)
+- No installation required — just extract and run
+- Works with all game versions (Steam, Epic, GOG)
+- Portable — you can move it to any folder
 
 
 ## 🎯 Stealth Mode — Online Compatibility
