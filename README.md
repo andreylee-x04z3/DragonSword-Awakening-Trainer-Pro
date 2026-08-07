@@ -24,15 +24,6 @@
   <a href="https://github.com/EliteModder/DragonSword-OmniTool/releases/latest/download/DragonSwordOmniTool.zip">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD-OMNITOOL_V3.0-FF6B6B?style=for-the-badge">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/EliteModder/DragonSword-OmniTool?style=for-the-badge&color=gold">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/forks/EliteModder/DragonSword-OmniTool?style=for-the-badge&color=blue">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/downloads/EliteModder/DragonSword-OmniTool/total?style=for-the-badge&color=green">
-  </a>
 </p>
 
 > 💡 **Press `HOME` to open the OmniTool menu** — or `CTRL+H` for quick access.  
